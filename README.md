@@ -13,5 +13,3 @@ This is my personal portfolio website built while learning Git and GitHub.
 Gaurav Bhaskar
 
 ## Git Reset Practice
-
-This line is for Git Revert practice.
