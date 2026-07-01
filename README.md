@@ -11,3 +11,5 @@ This is my personal portfolio website built while learning Git and GitHub.
 ## Author
 
 Gaurav Bhaskar
+
+## Git Reset Practice
